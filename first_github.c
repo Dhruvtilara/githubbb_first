@@ -16,7 +16,7 @@ int main(){
         
         
     }
-    printf("Digital Root: %d\n",sum);
+    printf("Digital Root which is the answer: %d\n",sum);
     printf("Number of Steps: %d\n",count);
     
     return 0;
